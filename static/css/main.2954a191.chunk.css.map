@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/Components/App.css"],"names":[],"mappings":"AAAA,KACE,iBAAkB,CAClB,wBACF,CAEA,OACE,gBACF","file":"main.2954a191.chunk.css","sourcesContent":[".App {\n  text-align: center;\n  background-color: burlywood;\n}\n\n.image{\n  max-height: 100vh;\n}"]}
